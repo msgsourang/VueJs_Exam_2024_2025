@@ -1,0 +1,443 @@
+{
+  "orders": [
+    {
+      "id": "1",
+      "customer": "Monkey D. Luffy",
+      "items": [
+        "Meat Feast",
+        "Cola",
+        "Extra Meat"
+      ],
+      "total": 42.99,
+      "status": "completed",
+      "createdAt": "2025-05-03T12:30:00.000Z",
+      "completedAt": "2025-05-03T15:24:55.525Z"
+    },
+    {
+      "id": "2",
+      "customer": "Roronoa Zoro",
+      "items": [
+        "Sake Special",
+        "Onigiri",
+        "Sushi Platter"
+      ],
+      "total": 35.5,
+      "status": "completed",
+      "createdAt": "2025-05-03T12:45:00.000Z",
+      "completedAt": "2025-05-03T15:24:53.323Z"
+    },
+    {
+      "id": "3",
+      "customer": "Nami",
+      "items": [
+        "Tangerine Salad",
+        "Seafood Pasta",
+        "Orange Juice"
+      ],
+      "total": 28.75,
+      "status": "completed",
+      "createdAt": "2025-05-03T11:15:00.000Z",
+      "completedAt": "2025-05-03T11:45:00.000Z"
+    },
+    {
+      "id": "4",
+      "customer": "Usopp",
+      "items": [
+        "Spicy Chicken Wings",
+        "French Fries",
+        "Cola"
+      ],
+      "total": 22.5,
+      "status": "completed",
+      "createdAt": "2025-05-03T10:30:00.000Z",
+      "completedAt": "2025-05-03T11:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "customer": "Sanji",
+      "items": [
+        "Gourmet Seafood Platter",
+        "Fine Wine",
+        "Chocolate Dessert"
+      ],
+      "total": 89.99,
+      "status": "completed",
+      "createdAt": "2025-05-02T19:15:00.000Z",
+      "completedAt": "2025-05-02T20:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "customer": "Tony Tony Chopper",
+      "items": [
+        "Cotton Candy",
+        "Fruit Salad",
+        "Milk"
+      ],
+      "total": 15.25,
+      "status": "cancelled",
+      "createdAt": "2025-05-03T09:45:00.000Z",
+      "cancelledAt": "2025-05-03T10:00:00.000Z"
+    },
+    {
+      "id": "7",
+      "customer": "Nico Robin",
+      "items": [
+        "Coffee",
+        "Sandwich",
+        "Book Special"
+      ],
+      "total": 18.5,
+      "status": "completed",
+      "createdAt": "2025-05-02T14:30:00.000Z",
+      "completedAt": "2025-05-02T15:00:00.000Z"
+    },
+    {
+      "id": "8",
+      "customer": "Franky",
+      "items": [
+        "SUPER Cola",
+        "Burger Deluxe",
+        "Extra Fries"
+      ],
+      "total": 32.75,
+      "status": "completed",
+      "createdAt": "2025-05-02T13:15:00.000Z",
+      "completedAt": "2025-05-02T13:45:00.000Z"
+    },
+    {
+      "id": "9",
+      "customer": "Brook",
+      "items": [
+        "Bone Soup",
+        "Milk",
+        "Tea"
+      ],
+      "total": 19.99,
+      "status": "completed",
+      "createdAt": "2025-05-03T13:00:00.000Z",
+      "completedAt": "2025-05-03T15:24:54.081Z"
+    },
+    {
+      "id": "10",
+      "customer": "Jinbe",
+      "items": [
+        "Fish Platter",
+        "Seaweed Salad",
+        "Water"
+      ],
+      "total": 45.5,
+      "status": "completed",
+      "createdAt": "2025-05-03T13:15:00.000Z",
+      "completedAt": "2025-05-03T15:24:56.577Z"
+    },
+    {
+      "id": "11",
+      "customer": "Trafalgar Law",
+      "items": [
+        "Onigiri",
+        "Green Tea",
+        "Rice Balls"
+      ],
+      "total": 24.25,
+      "status": "completed",
+      "createdAt": "2025-05-01T18:30:00.000Z",
+      "completedAt": "2025-05-01T19:00:00.000Z"
+    },
+    {
+      "id": "12",
+      "customer": "Portgas D. Ace",
+      "items": [
+        "Spicy Meat Platter",
+        "Fire Noodles",
+        "Hot Sauce Special"
+      ],
+      "total": 52.99,
+      "status": "completed",
+      "createdAt": "2025-05-01T19:45:00.000Z",
+      "completedAt": "2025-05-01T20:30:00.000Z"
+    },
+    {
+      "id": "13",
+      "customer": "Shanks",
+      "items": [
+        "Premium Sake",
+        "Grilled Fish",
+        "Party Platter"
+      ],
+      "total": 120.5,
+      "status": "completed",
+      "createdAt": "2025-04-30T20:15:00.000Z",
+      "completedAt": "2025-04-30T21:30:00.000Z"
+    },
+    {
+      "id": "14",
+      "customer": "Buggy",
+      "items": [
+        "Clown Special",
+        "Fruit Punch",
+        "Sandwich"
+      ],
+      "total": 28.75,
+      "status": "cancelled",
+      "createdAt": "2025-05-02T11:45:00.000Z",
+      "cancelledAt": "2025-05-02T12:00:00.000Z"
+    },
+    {
+      "id": "15",
+      "customer": "Crocodile",
+      "items": [
+        "Desert Special",
+        "Sand Cake",
+        "Water"
+      ],
+      "total": 38.25,
+      "status": "completed",
+      "createdAt": "2025-04-29T17:30:00.000Z",
+      "completedAt": "2025-04-29T18:15:00.000Z"
+    }
+  ],
+  "revenue": {
+    "daily": [
+      {
+        "date": "2025-04-29",
+        "amount": 38.25
+      },
+      {
+        "date": "2025-04-30",
+        "amount": 120.5
+      },
+      {
+        "date": "2025-05-01",
+        "amount": 77.24
+      },
+      {
+        "date": "2025-05-02",
+        "amount": 156.74
+      },
+      {
+        "date": "2025-05-03",
+        "amount": 66.5
+      }
+    ],
+    "monthly": [
+      {
+        "month": "2025-01",
+        "amount": 2450.75
+      },
+      {
+        "month": "2025-02",
+        "amount": 3120.5
+      },
+      {
+        "month": "2025-03",
+        "amount": 2890.25
+      },
+      {
+        "month": "2025-04",
+        "amount": 3450.75
+      },
+      {
+        "month": "2025-05",
+        "amount": 459.23
+      }
+    ],
+    "yearly": [
+      {
+        "year": "2023",
+        "amount": 28500.5
+      },
+      {
+        "year": "2024",
+        "amount": 32750.25
+      },
+      {
+        "year": "2025",
+        "amount": 12371.48
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": "1",
+      "name": "Meat Feast",
+      "category": "Main",
+      "price": 24.99
+    },
+    {
+      "id": "2",
+      "name": "Sake Special",
+      "category": "Drinks",
+      "price": 15.5
+    },
+    {
+      "id": "3",
+      "name": "Tangerine Salad",
+      "category": "Appetizers",
+      "price": 12.75
+    },
+    {
+      "id": "4",
+      "name": "Spicy Chicken Wings",
+      "category": "Appetizers",
+      "price": 14.5
+    },
+    {
+      "id": "5",
+      "name": "Gourmet Seafood Platter",
+      "category": "Main",
+      "price": 65.99
+    },
+    {
+      "id": "6",
+      "name": "Cotton Candy",
+      "category": "Desserts",
+      "price": 8.25
+    },
+    {
+      "id": "7",
+      "name": "Coffee",
+      "category": "Drinks",
+      "price": 5.5
+    },
+    {
+      "id": "8",
+      "name": "SUPER Cola",
+      "category": "Drinks",
+      "price": 4.75
+    },
+    {
+      "id": "9",
+      "name": "Bone Soup",
+      "category": "Appetizers",
+      "price": 10.99
+    },
+    {
+      "id": "10",
+      "name": "Fish Platter",
+      "category": "Main",
+      "price": 35.5
+    },
+    {
+      "id": "11",
+      "name": "Onigiri",
+      "category": "Appetizers",
+      "price": 8.25
+    },
+    {
+      "id": "12",
+      "name": "Spicy Meat Platter",
+      "category": "Main",
+      "price": 32.99
+    },
+    {
+      "id": "13",
+      "name": "Premium Sake",
+      "category": "Drinks",
+      "price": 85.5
+    },
+    {
+      "id": "14",
+      "name": "Clown Special",
+      "category": "Main",
+      "price": 18.75
+    },
+    {
+      "id": "15",
+      "name": "Desert Special",
+      "category": "Main",
+      "price": 28.25
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "name": "Monkey D. Luffy",
+      "visits": 15,
+      "totalSpent": 645.85
+    },
+    {
+      "id": "2",
+      "name": "Roronoa Zoro",
+      "visits": 8,
+      "totalSpent": 284
+    },
+    {
+      "id": "3",
+      "name": "Nami",
+      "visits": 10,
+      "totalSpent": 287.5
+    },
+    {
+      "id": "4",
+      "name": "Usopp",
+      "visits": 7,
+      "totalSpent": 157.5
+    },
+    {
+      "id": "5",
+      "name": "Sanji",
+      "visits": 12,
+      "totalSpent": 1079.88
+    },
+    {
+      "id": "6",
+      "name": "Tony Tony Chopper",
+      "visits": 9,
+      "totalSpent": 137.25
+    },
+    {
+      "id": "7",
+      "name": "Nico Robin",
+      "visits": 11,
+      "totalSpent": 203.5
+    },
+    {
+      "id": "8",
+      "name": "Franky",
+      "visits": 6,
+      "totalSpent": 196.5
+    },
+    {
+      "id": "9",
+      "name": "Brook",
+      "visits": 5,
+      "totalSpent": 99.95
+    },
+    {
+      "id": "10",
+      "name": "Jinbe",
+      "visits": 4,
+      "totalSpent": 182
+    },
+    {
+      "id": "11",
+      "name": "Trafalgar Law",
+      "visits": 3,
+      "totalSpent": 72.75
+    },
+    {
+      "id": "12",
+      "name": "Portgas D. Ace",
+      "visits": 2,
+      "totalSpent": 105.98
+    },
+    {
+      "id": "13",
+      "name": "Shanks",
+      "visits": 1,
+      "totalSpent": 120.5
+    },
+    {
+      "id": "14",
+      "name": "Buggy",
+      "visits": 2,
+      "totalSpent": 57.5
+    },
+    {
+      "id": "15",
+      "name": "Crocodile",
+      "visits": 1,
+      "totalSpent": 38.25
+    }
+  ]
+}

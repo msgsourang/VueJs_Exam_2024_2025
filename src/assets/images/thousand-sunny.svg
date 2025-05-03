@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800">
+  <!-- Base du bateau -->
+  <path d="M400,700 C250,700 150,650 150,550 C150,450 250,400 400,400 C550,400 650,450 650,550 C650,650 550,700 400,700 Z" fill="#8B4513"/>
+  
+  <!-- Coque principale -->
+  <path d="M200,550 C200,500 300,450 400,450 C500,450 600,500 600,550 C600,600 500,650 400,650 C300,650 200,600 200,550 Z" fill="#A0522D"/>
+  
+  <!-- Pont supérieur -->
+  <path d="M250,525 C250,500 325,475 400,475 C475,475 550,500 550,525 C550,550 475,575 400,575 C325,575 250,550 250,525 Z" fill="#D2B48C"/>
+  
+  <!-- Mât principal -->
+  <rect x="395" y="250" width="10" height="250" fill="#8B4513"/>
+  
+  <!-- Tête de lion (proue) -->
+  <circle cx="400" cy="400" r="50" fill="#FFD700"/>
+  <path d="M400,350 C430,350 450,370 450,400 C450,430 430,450 400,450 C370,450 350,430 350,400 C350,370 370,350 400,350 Z" fill="#FFA500"/>
+  <circle cx="380" cy="390" r="10" fill="#000000"/>
+  <circle cx="420" cy="390" r="10" fill="#000000"/>
+  <path d="M390,420 C390,420 400,430 410,420" fill="none" stroke="#000000" stroke-width="3"/>
+  
+  <!-- Rayons de soleil -->
+  <path d="M400,350 L400,300" stroke="#FFD700" stroke-width="8"/>
+  <path d="M430,360 L460,320" stroke="#FFD700" stroke-width="8"/>
+  <path d="M450,390 L500,390" stroke="#FFD700" stroke-width="8"/>
+  <path d="M430,420 L460,460" stroke="#FFD700" stroke-width="8"/>
+  <path d="M370,360 L340,320" stroke="#FFD700" stroke-width="8"/>
+  <path d="M350,390 L300,390" stroke="#FFD700" stroke-width="8"/>
+  <path d="M370,420 L340,460" stroke="#FFD700" stroke-width="8"/>
+  
+  <!-- Voiles -->
+  <path d="M400,250 L350,400 L450,400 Z" fill="#FFFFFF" stroke="#000000" stroke-width="2"/>
+  <path d="M400,270 L370,350 L430,350 Z" fill="#D42A2A" stroke="#000000" stroke-width="2"/>
+  
+  <!-- Drapeau pirate -->
+  <rect x="390" y="220" width="20" height="30" fill="#000000"/>
+  <circle cx="400" cy="235" r="8" fill="#FFFFFF"/>
+  <path d="M395,235 L405,235 M400,230 L400,240" stroke="#000000" stroke-width="2"/>
+</svg>

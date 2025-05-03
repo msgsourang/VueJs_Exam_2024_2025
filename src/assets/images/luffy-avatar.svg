@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="#FFD8B6" />
+  <circle cx="50" cy="50" r="48" fill="none" stroke="#000" stroke-width="2" />
+  
+  <!-- Chapeau de paille -->
+  <ellipse cx="50" cy="25" rx="35" ry="10" fill="#E6B325" />
+  <ellipse cx="50" cy="25" rx="25" ry="5" fill="#8B4513" />
+  
+  <!-- Cheveux -->
+  <path d="M30 30 Q40 15, 50 30 Q60 15, 70 30" fill="#000000" />
+  
+  <!-- Visage -->
+  <circle cx="40" cy="40" r="5" fill="#FFFFFF" stroke="#000" stroke-width="1" />
+  <circle cx="40" cy="40" r="2" fill="#000000" />
+  <circle cx="60" cy="40" r="5" fill="#FFFFFF" stroke="#000" stroke-width="1" />
+  <circle cx="60" cy="40" r="2" fill="#000000" />
+  
+  <!-- Cicatrice -->
+  <path d="M45 30 L55 30" stroke="#D42A2A" stroke-width="2" />
+  
+  <!-- Sourire -->
+  <path d="M35 60 Q50 70, 65 60" fill="none" stroke="#000" stroke-width="2" />
+</svg>
