@@ -51,12 +51,6 @@ Examen Vue.js - Massourang Sourang L3CDSD
    - Définir la période si nécessaire
    - Cliquer sur "Générer le rapport"
 
-- Astuces d'utilisation
-
-- Les données sont automatiquement rafraîchies toutes les 30 secondes
-- Sur mobile, cliquez sur l'icône de menu pour afficher/masquer la barre latérale
-- Toutes les popups peuvent être fermées en cliquant sur la croix (×) ou en dehors de la fenêtre
-
 -   Remarques
 
 - Il y a des données fictives de test
